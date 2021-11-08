@@ -1,0 +1,86 @@
+body{
+	background-color: black;
+}
+.tmenu{
+	background-color: #0ef;
+	height: 32px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.lmenu{
+	height: 100%;
+	width: 32px;
+	background-color: #0ef;
+	position: fixed;
+	left: 0;
+}
+.icon{
+	display: inline-block;
+	background-color: red;
+	margin-top: 64px;
+	margin-left: 64px;
+	width: 140px;
+	text-align: center;
+	border-style: hidden;
+	border-radius: 10px;
+}
+.git{
+	background-color: grey;
+}
+.vk{
+	background-color: lightskyblue;
+}
+.hh{
+	background-color: yellow;
+	width: 280px;
+}
+.tw{
+	background-color: purple;
+}
+.hb{
+	background-color: sandybrown;
+}
+.cp{
+	background-color: green;
+	width: 180px;
+}
+hr {
+	margin-top: 50px;
+	border-style: solid;
+	border-color: #0ef;
+}
+.google{
+	background-color: floralwhite;
+	border-style: solid;
+	border-radius: 8px;
+	border-color: white;
+	text-align: center;
+	display: inline-block;
+	width: 96%;
+	margin-left: 50px;
+	margin-top: 25px;
+}
+.yandex{
+	background-color: darkred;
+	border-style: solid;
+	border-radius: 8px;
+	border-color: red;
+	text-align: center;
+	display: inline-block;
+	width: 96%;
+	margin-left: 50px;
+	margin-top: 25px;
+}
+.none{
+	color:white ;
+	background-color: grey;
+	height: 700px;
+	text-align: center;
+}
