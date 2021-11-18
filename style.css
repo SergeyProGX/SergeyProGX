@@ -78,9 +78,30 @@ hr {
 	margin-left: 50px;
 	margin-top: 25px;
 }
-.none{
-	color:white ;
+.pr{
+	color:#0ef ;
 	background-color: grey;
 	height: 700px;
 	text-align: center;
+	border-style: solid;
+	border-color: black;
+	border-radius: 8px;
+}
+.among{
+	background-color: black;
+	position: absolute;
+	margin-left: 2%;
+	width: 96%;
+	text-align: left;
+	border-style: solid;
+	border-color: #0ef;
+}
+.by{
+	text-align: right;
+}
+.title{
+	text-align: center;
+}
+.pr a {
+	color: #0ef;
 }

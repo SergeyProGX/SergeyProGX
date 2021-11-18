@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+	color: #0ef;
+	text-align: center;
+	text-decoration: none;
+}
+hr{
+	margin-top: 50px;
+	border-style: solid;
+	border-color: #0ef;
+}
+td,th {
+	color:silver;
+	border-color:lightblue;
+	border-width:5px;
+	border-style:solid;   
+	}
+table{
+	width: 100%;
+	height: 100%;
+}
+.back{
+	background-color:#0ef;
+	color: black;
+	position: absolute;
+	width: 10%;
+	margin-left: 89%;
+}
