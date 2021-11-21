@@ -1,0 +1,44 @@
+.long{
+	background-color: darkred;
+	border-style: solid;
+	border-radius: 8px;
+	border-color: red;
+	text-align: center;
+	display: inline-block;
+	width: 98%;
+	margin-left: 13px;
+	margin-top: 25px;
+	color: black;
+}
+body{
+	background-color: black;
+	color:#0ef;
+	text-align: center;
+}
+hr {
+	margin-top: 50px;
+	border-style: solid;
+	border-color: #0ef;
+}
+.tik{
+	color: #0ef ;
+	background-color: black;
+	border-color: #0ef;
+}
+.vk{
+	color: black;
+	background-color: cyan;
+	border-color: darkcyan;
+}
+.telegram{
+	background-color: skyblue;
+	border-color:#0ef ;
+}
+.back{
+	background-color:#0ef;
+	color: black;
+	position: absolute;
+	width: 10%;
+	margin-left: 89%;
+	margin-top: 19%;
+}

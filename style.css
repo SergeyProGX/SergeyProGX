@@ -3,12 +3,13 @@ body{
 }
 .tmenu{
 	background-color: #0ef;
-	height: 32px;
+	height: 24px;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
 	text-align: center;
+	padding-bottom: 8px;
 }
 a {
 	text-decoration: none;
@@ -81,11 +82,11 @@ hr {
 .pr{
 	color:#0ef ;
 	background-color: grey;
-	height: 700px;
 	text-align: center;
 	border-style: solid;
 	border-color: black;
 	border-radius: 8px;
+	height:600px;
 }
 .among{
 	background-color: black;
@@ -104,4 +105,16 @@ hr {
 }
 .pr a {
 	color: #0ef;
+}
+.soc{
+	display: inline-block;
+	margin-left: 32px;
+	margin-top: 32px;
+}
+.gx{
+	color:#0ef ;
+	padding-top: 6px;
+	position: fixed;
+	left: 45%;
+	z-index: 1;
 }
